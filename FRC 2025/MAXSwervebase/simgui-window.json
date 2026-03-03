@@ -1,0 +1,98 @@
+{
+  "Docking": {
+    "Data": []
+  },
+  "MainWindow": {
+    "GLOBAL": {
+      "font": "Roboto Bold",
+      "fps": "120",
+      "height": "720",
+      "maximized": "1",
+      "style": "3",
+      "userScale": "2",
+      "width": "1280",
+      "xpos": "0",
+      "ypos": "29"
+    }
+  },
+  "Table": {
+    "0xE56EC1C2,4": {
+      "Column 0  Weight": "1.0000",
+      "Column 1  Weight": "1.0000",
+      "Column 2  Weight": "1.0000",
+      "Column 3  Weight": "1.0000"
+    }
+  },
+  "Window": {
+    "###/FMSInfo": {
+      "Collapsed": "0",
+      "Pos": "179,116",
+      "Size": "168,206"
+    },
+    "###/SmartDashboard/Algae Subsystem": {
+      "Collapsed": "0",
+      "Pos": "627,84",
+      "Size": "306,200"
+    },
+    "###/SmartDashboard/Auto Chooser": {
+      "Collapsed": "0",
+      "Pos": "165,33",
+      "Size": "316,56"
+    },
+    "###/SmartDashboard/Field": {
+      "Collapsed": "0",
+      "Pos": "1070,56",
+      "Size": "514,409"
+    },
+    "###FMS": {
+      "Collapsed": "0",
+      "Pos": "8,334",
+      "Size": "165,228"
+    },
+    "###Joysticks": {
+      "Collapsed": "0",
+      "Pos": "10,818",
+      "Size": "976,193"
+    },
+    "###NetworkTables": {
+      "Collapsed": "0",
+      "Pos": "16,671",
+      "Size": "750,116"
+    },
+    "###NetworkTables Info": {
+      "Collapsed": "0",
+      "Pos": "22,605",
+      "Size": "750,41"
+    },
+    "###Other Devices": {
+      "Collapsed": "0",
+      "Pos": "1639,31",
+      "Size": "251,692"
+    },
+    "###RoboRIO": {
+      "Collapsed": "0",
+      "Pos": "379,108",
+      "Size": "220,212"
+    },
+    "###System Joysticks": {
+      "Collapsed": "0",
+      "Pos": "822,517",
+      "Size": "191,272"
+    },
+    "###Timing": {
+      "Collapsed": "0",
+      "Pos": "3,167",
+      "Size": "162,166"
+    },
+    "Debug##Default": {
+      "Collapsed": "0",
+      "Pos": "60,60",
+      "Size": "400,400"
+    },
+    "Robot State": {
+      "Collapsed": "0",
+      "Pos": "4,22",
+      "Size": "112,140"
+    }
+  }
+}
